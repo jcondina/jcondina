@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan I Condina</h1>
+![download](https://user-images.githubusercontent.com/43761363/227386073-1677c8f4-1fd3-40b2-a0f0-fd5333edc00b.png)
 <h3 align="center">A full-stack developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
