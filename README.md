@@ -124,7 +124,3 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jcondina&show_icons=true&locale=en" alt="jcondina" />
 </p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcondina&" alt="jcondina" />
-</p>
